@@ -1,1 +1,1 @@
-# bitcalc-poolpay
+# Calculadora de juros compostos-poolpay
